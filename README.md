@@ -20,3 +20,15 @@ All modded items/blocks/mechanics are tangential, non critical, and if they disa
 Notes:
 
 Tectonic world generation is enabled by default for synergy with Distant Horizons. The mod appears well supported, but would break existing worlds if it becomes unsupported in the future. If true LTS is desired it's recommended to disable this.
+
+
+---
+
+The following mods are slated for addition when they are updated to 1.21.5:
+- Tool Stats 
+- Enchantment Descriptions/Prickle
+- Enchant Tweaker
+- FancyMenu
+- Horse Buff
+- Modpack Update Checker
+- Mouse Tweaks+Melody+Konkrete
